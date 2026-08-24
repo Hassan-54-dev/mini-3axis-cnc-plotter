@@ -48,7 +48,7 @@ void draw(){
   text("g: select G-code file", 12, y); y += dy;
   text("x: stop your CNC machine", 12, y); y += dy;
   y = height - dy;
-  text("Powered by SriTu Hobby", 12, y); y -= dy;
+  text("Powered by Hassan Raza", 12, y); y -= dy;
   text("current serial port: " + portname, 12, y); y -= dy;
 }
 
